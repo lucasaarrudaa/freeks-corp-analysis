@@ -36,8 +36,7 @@ class Campanha:
         self.novo_cpc = self.novo_custo_diario / (self.impressoes_diarias * self.ctr)
         self.novo_lucro_mensal = (self.nova_receita_diaria - self.novo_custo_diario) * 30
         return print(f'\n\
-                        \nCom a crise, a equipe de analistas estima que no segundo mês a receita por venda (RPA) de todas as campanhas será €10,00. \
-                        \nPortanto, Novo CPC da campanha {self.nome} deve ser {self.novo_cpc:,.2f} para ter rói de 100%.\
+                        \nNovo CPC da campanha *{self.nome}* deve ser {self.novo_cpc:,.2f}\
                         \nO novo lucro mensal deverá ser R$ {self.novo_lucro_mensal:,.2f}')    
     def __str__(self):
 
