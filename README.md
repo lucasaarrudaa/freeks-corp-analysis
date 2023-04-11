@@ -30,5 +30,6 @@ Veja abaixo como utilizar essa tática:
 -------------------
 | Indice | Exemplo |
 | --- | --- |
-| CPC | criar duas versões de um anúncio, uma com um CPC mais alto e outra com CPC mais baixo, e expor cada versão a uma parte igual da audiência.      
+| CPC | Crie duas versões de um anúncio, uma com um CPC mais alto e outra com CPC mais baixo, e expor cada versão a uma parte igual da audiência.      
 
+Em seguida, pode-se acompanhar as métricas de desempenho, como cliques, impressões, conversões, ROI, CPA, RPA, entre outras, e analisar os resultados para determinar qual variação obteve os melhores resultados.
