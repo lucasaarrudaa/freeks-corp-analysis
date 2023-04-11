@@ -26,9 +26,3 @@ Com base nos resultados das análises, conclui-se que as campanhas C e D precisa
 8. Essas são algumas sugestões que podem ser consideradas para atingir o objetivo mínimo de €500.000,00 por mês.
 
 9. Testes A/B: É recomendável realizar testes A/B para identificar quais estratégias e táticas estão funcionando melhor.
-
-                                                                   |Testes A/B  |
-                                                       ------------------------------------------
-                                                       |       Indice      |       Exemplo       |
-                                                       ------------------------------------------
-                                                       |        CPC        |  criar duas versões de um anúncio, uma com CPC mais alto e outra com CPC mais baixo, e expor cada versão a uma parte igual da audiência                   |
