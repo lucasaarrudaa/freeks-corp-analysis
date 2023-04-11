@@ -24,3 +24,12 @@ Com base nos resultados das análises, conclui-se que as campanhas C e D precisa
 7. Acompanhar de perto os indicadores de desempenho (KPIs) das campanhas de marketing e realizar ajustes contínuos nas estratégias com base nos resultados obtidos, para garantir uma abordagem orientada por dados e maximizar o retorno sobre o investimento.
 
 8. Essas são algumas sugestões que podem ser consideradas para atingir o objetivo mínimo de €500.000,00 por mês.
+
+9. Testes A/B: É recomendável realizar testes A/B para identificar quais estratégias e táticas estão funcionando melhor.
+
+Testes A/B
+----------------------------------------------------------------------------------
+|        Exemplo        |   *criar duas versões de um anúncio, uma com um CPC     |
+|                       |    mais alto e outra com CPC mais baixo, e expor        |
+|                       |    cada versão a uma parte igual da audiência.*         |
+|-----------------------|---------------------------------------------------------|
