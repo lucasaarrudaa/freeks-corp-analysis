@@ -27,7 +27,7 @@ Com base nos resultados das análises, conclui-se que as campanhas C e D precisa
 
 9. Testes A/B: É recomendável realizar testes A/B para identificar quais estratégias e táticas estão funcionando melhor.
 
-                                                                   Testes A/B  
+                                                                   |Testes A/B  |
                                                        ------------------------------------------
                                                        |       Indice      |       Exemplo       |
                                                        ------------------------------------------
