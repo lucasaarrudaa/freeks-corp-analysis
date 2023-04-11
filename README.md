@@ -34,3 +34,4 @@ Com base nos resultados das análises, conclui-se que as campanhas C e D precisa
 | CPC | criar duas versões de um anúncio, uma com um CPC | 
       | mais alto e outra com CPC mais baixo, e expor |    
       | cada versão a uma parte igual da audiência. |      
+-----------------------------------------------------
