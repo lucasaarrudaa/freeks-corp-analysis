@@ -27,8 +27,8 @@ Com base nos resultados das análises, conclui-se que as campanhas C e D precisa
 
 9. Testes A/B: É recomendável realizar testes A/B para identificar quais estratégias e táticas estão funcionando melhor.
 
-                                                                        Testes A/B  
-                                                            ------------------------------------------
-                                                            |       CPC      |       aEXEMPLOs       |
-                                                            ------------------------------------------
-                                                            |                                        |
+                                                                   Testes A/B  
+                                                       ------------------------------------------
+                                                       |       Indice      |       Exemplo       |
+                                                       ------------------------------------------
+                                                       |        CPC        |  criar duas versões de um anúncio, uma com CPC mais alto e outra com CPC mais baixo, e expor cada versão a uma parte igual da audiência                   |
