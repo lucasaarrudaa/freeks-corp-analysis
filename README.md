@@ -29,6 +29,7 @@ Com base nos resultados das análises, conclui-se que as campanhas C e D precisa
 
 
  :Testes A/B: 
+ ------------
 -------------------
 | Indice | Exemplo |
 | --- | --- |
