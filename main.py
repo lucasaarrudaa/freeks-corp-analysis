@@ -1,40 +1,41 @@
-import src.dados_atuais
-import src.dados_previsao
+import src.current_data
+import src.forecast_data
 import sys
 
 print("*******************************************************************************************")
-print("Você está no ambiente de análise de dados da área de marketing digital empresa Freeks Corp ")
+print("You are in the data analysis environment of the digital marketing department of Freeks Corp")
 print("*******************************************************************************************")
 
 while True:
-    escolha = int(input("Deseja analisar os dados atuais ou a previsão do mês seguinte?\
-                         \nDADOS ATUAIS[1]  PREVISÃO[2]  SAIR[3]\n"))
+    choice = int(input("Do you want to analyze current data or forecast for the next month?\
+                         \nCURRENT DATA[1]  FORECAST[2]  EXIT[3]\n"))
 
-    while escolha == 1 or escolha == 2:
-        if escolha == 1:
-            src.dados_atuais.mostrar()
-        elif escolha == 2:
-            src.dados_previsao.mostrar()
+    while choice == 1 or choice == 2:
+        if choice == 1:
+            src.current_data.show()
+        elif choice == 2:
+            src.forecast_data.show()
+        option = input(
+            "Do you still want to analyze the data?\nOptions: [Y] Yes [N] No\n").lower()
 
-        opcao = input("Ainda deseja analisar os dados?\nOpções: [S] Sim [N] Não\n").lower()
-        while opcao != "s" and opcao != "n":
-            opcao = input("Opção inválida. Por favor, digite 'S' para continuar ou 'N' para sair.\n").lower()
+        while option != "y" and option != "n":
+            option = input(
+                "Invalid option. Please enter 'Y' to continue or 'N' to exit.\n").lower()
 
-        if opcao == "n":
-            print("Obrigado por utilizar o programa. Até a próxima!")
+        if option == "n":
+            print("Thank you for using the program. See you next time!")
             sys.exit(0)
-            
+
         while True:
-            escolha = int(input("Deseja analisar os dados atuais ou a previsão do mês seguinte?\
-                                \nDADOS ATUAIS[1]  PREVISÃO[2]  SAIR[3]\n"))
-            if escolha == 1 or escolha == 2 or escolha == 3:
-                escolha = int(escolha)
+            choice = int(input("Do you want to analyze current data or forecast for the next month?\
+                                \nCURRENT DATA[1]  FORECAST[2]  EXIT[3]\n"))
+            if choice == 1 or choice == 2 or choice == 3:
+                choice = int(choice)
                 break
             else:
-                print("Opção inválida. Por favor, escolha 1, 2 ou 3.")
-
-    if escolha == 3:
-        print("Obrigado por utilizar o programa. Até a próxima!")
+                print("Invalid option. Please choose 1, 2, or 3.")
+    if choice == 3:
+        print("Thank you for using the program. See you next time!")
         sys.exit(0)
 
-    print("Opção inválida. Por favor, digite '1', '2' ou '3'.\n")
+    print("Invalid option. Please enter '1', '2', or '3'.\n")
